@@ -1,5 +1,5 @@
 # packet-monitor
-A small network monitoring utility written in Python.
+A lightweight network monitoring tool written in Python.
 
 ## Features
 - Basic packet statistics

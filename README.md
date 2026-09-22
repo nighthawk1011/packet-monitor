@@ -7,8 +7,5 @@ A small network monitoring utility written in Python.
 - Lightweight terminal interface
 - Export results to csv
 
-## Issues
-Currently working on troubleshooting the minor issues with the packet monitor connection under specific types of security measures. 
-
 Built for personal experimentation
 by E

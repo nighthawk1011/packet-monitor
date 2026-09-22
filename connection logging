@@ -1,1 +1,3 @@
 /* the following code logs the connection status in real time */
+
+/* issue with the connection logging under certain security measures have been fixed */
